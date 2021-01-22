@@ -1,6 +1,8 @@
 export default
 {
-    "server":{
-        "port":8000
+    "api":{
+        "version":"1.0.0",
+        "stage":"alpha",
+        "author":"Patricio Cordero <patricio@espejozen.cl>"
     }
 }
